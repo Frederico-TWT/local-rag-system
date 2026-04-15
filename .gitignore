@@ -10,7 +10,7 @@ wheels/
 .venv/
 
 # Local tooling
-.codex/
+.codex
 
 # Generated caches
 data/image_cache.json

@@ -11,10 +11,3 @@ wheels/
 
 # Local tooling
 .codex
-
-# Generated caches
-data/image_cache.json
-
-# Project data
-articles
-qdrant_storage

@@ -37,5 +37,7 @@ uv sync
 ## Usage
 
 ```sh
-uv run main.py "What do these documents say about HTTP?"
+uv run main.py "What is the number on the closet?"
+
+-> Answer: The numbers on the display are "27 28 29 30 31".
 ```

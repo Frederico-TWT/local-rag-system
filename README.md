@@ -36,8 +36,11 @@ uv sync
 
 ## Usage
 
+Run:
 ```sh
 uv run main.py "What is the number on the closet?"
-
--> Answer: The numbers on the display are "27 28 29 30 31".
+```
+Example response:
+```sh
+Answer: The numbers on the display are "27 28 29 30 31".
 ```
